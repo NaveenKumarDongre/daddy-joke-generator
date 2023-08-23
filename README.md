@@ -1,5 +1,5 @@
 # Dad Joke Generator
-https://github.com/NaveenKumarDongre/daddy-joke-generator
+
 ![GitHub](https://img.shields.io/github/license/NaveenKumarDongre/daddy-joke-generator)
 ![GitHub stars](https://img.shields.io/github/stars/NaveenKumarDongre/daddy-joke-generator)
 ![GitHub forks](https://img.shields.io/github/forks/NaveenKumarDongre/daddy-joke-generator)
@@ -27,10 +27,12 @@ Check out the live project: [Dad Joke Generator](https://daddycool-generator.net
    ```bash
    git clone https://github.com/NaveenKumarDongre/daddy-joke-generator.git
 
-2. Open the index.html file in your web browser or host the  project on a web server.
+   ```
 
-3. Click the "Tell me a Joke" button to generate a random dad  joke.
+2. Open the index.html file in your web browser or host the project on a web server.
+
+3. Click the "Tell me a Joke" button to generate a random dad joke.
 
 ## Contributing
 
-   Contributions are welcome! Feel free to submit a pull request or open an issue if you have any suggestions or improvements for the project.
+Contributions are welcome! Feel free to submit a pull request or open an issue if you have any suggestions or improvements for the project.
